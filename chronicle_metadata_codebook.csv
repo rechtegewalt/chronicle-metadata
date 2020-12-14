@@ -1,0 +1,28 @@
+org,organisation collecting the data
+org_member_of,parent organisation of collector
+org_link,link to organisations main website
+chronicle_incidents_api_link,link to API of chronicle
+chronicle_link,link to chronicle
+chronicle_cms,content management system of chronicle
+chronicle_report_form,is there an easily accessible form to report incidents
+chronicle_visuals_interactive_map,is there an interactive map created out of the chronicle
+chronicle_visuals_other,"are there other visuals created out of the chronicle, usually under „statistics“"
+chronicle_from,date of first chronicle entry
+chronicle_to,date of last chronicle entry
+chronicle_coverage_admin1,country covered by chronicle
+chronicle_coverage_admin2,administrative unit below country covered by chronicle
+chronicle_admin3,administrative unit two below country level
+chronicle_incident_title,is there a descriptive title of each incident
+chronicle_incident_date,is there a clearly termed date on incidents
+chronicle_incident_description,is there a description on each incident
+chronicle_source_name,is there a name of a source
+chronicle_source_category,"is there a category of sources (press, police, parlamentary freedom of info)"
+chronicle_source_link,is there a link to sources
+chronicle_source_date,is there a date of sources (either date published or date accessed)
+chronicle_source_allow_themselves_or_witness,"does the chronicle mark „internal“ as source, meaning events not from media but from direct contact or witnesses"
+chronicle_incident_motif,"does the chronicle systematically collect motivations of incidents (e.g. racism, homophobia, antisemitism, antiziganism)"
+chronicle_incident_act,"does the chronicle systematically collect act types of incidents (e.g. assault, humiliation, murder)"
+chronicle_incident_place,does the chronicle collect a clear place of incident?
+chronicle_incident_place_precision,what is the precision of place?
+chronicle_incidents_geocoded,are there geocoded lat lon values available
+chronicle_notes,AoB
